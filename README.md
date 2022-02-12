@@ -33,8 +33,8 @@ I found that when I added an image into a print statement, they each had a diffe
 name. The 'completed' image is called pyimage2. Using that knowledge, I decided to add 
 all buttons to a list as tasks were added so I could loop through, tap into each buttons 
 'image' attribute, and if it matched the name of the 'completed' icon, it would be replaced 
-with the new task and an 'incomplete' icon. I also adding a boolean variable called 'keep 
-checking' to exit the for loop once a completed item was found, to ensure all completed items would 
+with the new task and an 'incomplete' icon. I also added a boolean variable called 'keep_checking' 
+to exit the for loop once a completed item was found, to ensure all completed items would 
 not be replaced.
 
 
