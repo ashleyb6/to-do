@@ -11,6 +11,7 @@ Developed using Python 3.10 in PyCharm,
 using the tkinter package to design my interface. 
 
 ====================
+
 Functions:
 
 add_item()
@@ -24,6 +25,7 @@ complete_task()
     if it matches the location where the button was clicked
     
 =====================
+
 Hardest part(s):
 
 Figuring out the logic of replacing already completed tasks within add_item().
